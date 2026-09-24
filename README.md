@@ -1,4 +1,4 @@
-# Task [X]: 3D Cone-Beam CT Image Reconstruction
+# Task 06: 3D Cone-Beam CT Image Reconstruction
 
 ## 1. Module Overview (What Our Team Is Building)
 
