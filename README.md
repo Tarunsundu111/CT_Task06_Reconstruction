@@ -87,10 +87,10 @@ The reconstruction process uses a **cone-beam forward projection model** to calc
 * [x] Added support for loading CT configuration parameters from a JSON file.
 * [x] Added reconstructed volume saving.
 * [x] Added visualization of the central reconstructed slice.
-* [ ] Test the reconstruction using the actual CT scanner projection data.
-* [ ] Verify the real CT geometry and calibration parameters.
-* [ ] Optimize the implementation for large projection datasets.
-* [ ] Validate reconstructed images against a known reference or phantom.
+* [x] Test the reconstruction using the actual CT scanner projection data.
+* [x] Verify the real CT geometry and calibration parameters.
+* [x] Optimize the implementation for large projection datasets.
+* [x] Validate reconstructed images against a known reference or phantom.
 
 ---
 
